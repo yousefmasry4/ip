@@ -1,16 +1,22 @@
 [
-    {
-      "songid":60908,
-      "title":"el 8sala",
-      "author":"wegz",
-      "pic":"https://i3.sndcdn.com/artworks-d5wCDRJVFVTqAdH6-JAkXAQ-t500x500.jpg",
-      "url":"https://ss6.sm3na.com/1888/Sm3na_com_60908.mp3"
-    },
-    {
-      "songid":58479,
-      "title":"dork gy",
-      "author":"wegz",
-      "pic":"https://i.ytimg.com/vi/SEhSs5Uemsk/maxresdefault.jpg",
-      "url":"https://ss5.sm3na.com/1888/Sm3na_com_58479.mp3"
-    }
+{'url': 'https://ss6.sm3na.com/1888/Sm3na_com_60908.mp3', 'songid': 60908, 'title': 'الغسالة', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss6.sm3na.com/1888/Sm3na_com_60823.mp3', 'songid': 60823, 'title': 'زمبليطة مع وزة منتصر', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss6.sm3na.com/1888/Sm3na_com_60509.mp3', 'songid': 60509, 'title': 'تجار حرام', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_58877.mp3', 'songid': 58877, 'title': 'اسياد البلد', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_58776.mp3', 'songid': 58776, 'title': 'مش هقولك بيبي مع عفروتو', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_58479.mp3', 'songid': 58479, 'title': 'دورك جاي مع مولوتوف', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_58019.mp3', 'songid': 58019, 'title': 'واحد وعشرين', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_57891.mp3', 'songid': 57891, 'title': 'علي بابا', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_57836.mp3', 'songid': 57836, 'title': 'نصين', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_57290.mp3', 'songid': 57290, 'title': 'بالسلامه مع مولوتوف', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56237.mp3', 'songid': 56237, 'title': 'ده و ده مع أبيوسف', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56236.mp3', 'songid': 56236, 'title': 'تايه', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56235.mp3', 'songid': 56235, 'title': 'متواليش', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56234.mp3', 'songid': 56234, 'title': 'نجم ساليني 2', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56233.mp3', 'songid': 56233, 'title': 'سكرتي', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56232.mp3', 'songid': 56232, 'title': 'حواري', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56231.mp3', 'songid': 56231, 'title': 'ساليني', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56230.mp3', 'songid': 56230, 'title': 'دموعنا مالحة ', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56229.mp3', 'songid': 56229, 'title': 'مش هقولك بيبي', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'},
+{'url': 'https://ss5.sm3na.com/1888/Sm3na_com_56228.mp3', 'songid': 56228, 'title': 'اي تي ام', 'author': 'wegz', 'pic': 'https://i.ytimg.com/vi/L_5Cngai8Js/maxresdefault.jpg'}
 ]
